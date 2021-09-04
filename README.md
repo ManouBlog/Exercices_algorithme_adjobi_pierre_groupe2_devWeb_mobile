@@ -1,0 +1,2 @@
+# Exercices_algorithme_adjobi_pierre_groupe2_devWeb_mobile
+projets algorithme
